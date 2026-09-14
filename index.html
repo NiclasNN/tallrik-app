@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="sv" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <title>Tallrik</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1, user-scalable=no">
+  <meta name="description" content="Tallrik – din personliga näringscoach. Fota maten, få kalorier och makron, och en plan som anpassar sig efter dig.">
+  <meta name="theme-color" content="#0A0C12">
+  <script>(function(){try{var t=localStorage.getItem('tallrik.theme');if(t){var d=document.documentElement;d.setAttribute('data-theme',t);if(/^malin/.test(t)){d.setAttribute('data-cute','1');var l=document.querySelector('link[rel=apple-touch-icon]');if(l)l.href='icons/apple-touch-icon-malin.png';document.addEventListener('DOMContentLoaded',function(){var i=document.querySelector('#boot img');if(i)i.src='icons/icon-192-malin.png';});}var c={dark:'#0A0C12',light:'#F3F4F8',malin:'#FFF4F8','malin-dark':'#1B1020'}[t];if(c)document.querySelector('meta[name=theme-color]').setAttribute('content',c);}}catch(e){}})();</script>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Tallrik">
+  <meta name="format-detection" content="telephone=no">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="64x64" href="icons/favicon-64.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="apple-touch-startup-image" href="icons/splash/1179x2556.png" media="(device-width: 393px) and (device-height: 852px) and (-webkit-device-pixel-ratio: 3)">
+  <link rel="apple-touch-startup-image" href="icons/splash/1290x2796.png" media="(device-width: 430px) and (device-height: 932px) and (-webkit-device-pixel-ratio: 3)">
+  <link rel="apple-touch-startup-image" href="icons/splash/1170x2532.png" media="(device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3)">
+  <link rel="apple-touch-startup-image" href="icons/splash/1284x2778.png" media="(device-width: 428px) and (device-height: 926px) and (-webkit-device-pixel-ratio: 3)">
+  <link rel="apple-touch-startup-image" href="icons/splash/1206x2622.png" media="(device-width: 402px) and (device-height: 874px) and (-webkit-device-pixel-ratio: 3)">
+  <link rel="apple-touch-startup-image" href="icons/splash/1320x2868.png" media="(device-width: 440px) and (device-height: 956px) and (-webkit-device-pixel-ratio: 3)">
+  <link rel="apple-touch-startup-image" href="icons/splash/1125x2436.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)">
+  <link rel="apple-touch-startup-image" href="icons/splash/828x1792.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)">
+  <link rel="apple-touch-startup-image" href="icons/splash/1242x2688.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)">
+  <link rel="apple-touch-startup-image" href="icons/splash/750x1334.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)">
+  <link rel="stylesheet" href="css/app.css?v=202609141620">
+  <style>
+    /* Första målningen innan JS: samma bakgrund som appen, inget vitt blink */
+    #boot { position: fixed; inset: 0; display: grid; place-items: center; background: var(--bg, #0A0C12); z-index: 100; transition: opacity .35s ease; }
+    #boot.out { opacity: 0; pointer-events: none; }
+    #boot img { width: 84px; height: 84px; border-radius: 22px; animation: bootPulse 1.4s ease-in-out infinite; }
+    @keyframes bootPulse { 0%, 100% { transform: scale(1); opacity: .9; } 50% { transform: scale(1.06); opacity: 1; } }
+  </style>
+</head>
+<body>
+  <div id="boot" aria-hidden="true"><img src="icons/icon-192.png" alt=""></div>
+  <div id="app"></div>
+  <div id="sheets"></div>
+  <div id="toasts" class="toasts"></div>
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <defs>
+      <linearGradient id="ringGrad" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#FF8A3D"/><stop offset="100%" stop-color="#FFC454"/>
+      </linearGradient>
+      <linearGradient id="ringGradOver" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#FF5C5C"/><stop offset="100%" stop-color="#FF8A8A"/>
+      </linearGradient>
+      <linearGradient id="areaGrad" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#FF8A3D" stop-opacity=".35"/><stop offset="100%" stop-color="#FF8A3D" stop-opacity="0"/>
+      </linearGradient>
+      <linearGradient id="ringGradCute" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#FF6FA5"/><stop offset="100%" stop-color="#C9A0FF"/>
+      </linearGradient>
+      <linearGradient id="areaGradCute" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#FF6FA5" stop-opacity=".35"/><stop offset="100%" stop-color="#FF6FA5" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+  </svg>
+  <script type="module" src="js/app.js?v=202609141620"></script>
+</body>
+</html>
