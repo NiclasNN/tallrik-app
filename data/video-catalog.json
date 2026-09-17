@@ -1,0 +1,1981 @@
+[
+ {
+  "q": "havregrynsgröt",
+  "tokens": [
+   "havregrynsgröt"
+  ],
+  "id": "i_ILh3c_se4",
+  "title": "Gör en lite lyxigare havregrynsgröt",
+  "channel": "Scandic Sverige",
+  "secs": 84,
+  "lang": "sv"
+ },
+ {
+  "q": "proteingröt",
+  "tokens": [
+   "proteingröt"
+  ],
+  "id": "0ZUyX-Hlb0k",
+  "title": "Matlåda Recept #11 | Proteinrik Matlåda",
+  "channel": "Filip Poon",
+  "secs": 835,
+  "lang": "sv"
+ },
+ {
+  "q": "overnight oats",
+  "tokens": [
+   "overnight",
+   "oats"
+  ],
+  "id": "fiobtWHXjc0",
+  "title": "Frukosttips - Overnight oats (du måste testa)",
+  "channel": "Matgeek",
+  "secs": 221,
+  "lang": "sv"
+ },
+ {
+  "q": "äggröra",
+  "tokens": [
+   "äggröra"
+  ],
+  "id": "A9CR6mafLYo",
+  "title": "Äggröra med crème fraiche",
+  "channel": "ICA-köket",
+  "secs": 81,
+  "lang": "sv"
+ },
+ {
+  "q": "omelett",
+  "tokens": [
+   "omelett"
+  ],
+  "id": "dJO4_0Y4N7M",
+  "title": "Se & gör omelett",
+  "channel": "Köket",
+  "secs": 67,
+  "lang": "sv"
+ },
+ {
+  "q": "kokta ägg perfekt",
+  "tokens": [
+   "kokta",
+   "ägg"
+  ],
+  "id": "hB-5evd_UG8",
+  "title": "Kokta ägg med ost | Kokt ägg recept | Hur man lagar perfekta hårdkokta ägg | Hur man kokar ägg",
+  "channel": "ChefChili",
+  "secs": 64,
+  "lang": "sv"
+ },
+ {
+  "q": "pannkakor nyttiga",
+  "tokens": [
+   "pannkakor"
+  ],
+  "id": "rsvdnoshApg",
+  "title": "PANNKAKOR - så blir de perfekt frasiga varje gång!",
+  "channel": "ICA-köket",
+  "secs": 304,
+  "lang": "sv"
+ },
+ {
+  "q": "proteinpannkakor",
+  "tokens": [
+   "proteinpannkakor"
+  ],
+  "id": "1rL8g7U4edA",
+  "title": "FLUFFIGA BLÅBÄRS-PROTEINPANNKAKOR",
+  "channel": "Proteinbolaget",
+  "secs": 67,
+  "lang": "sv"
+ },
+ {
+  "q": "smoothie grön",
+  "tokens": [
+   "smoothie",
+   "grön"
+  ],
+  "id": "9yef86yU7j4",
+  "title": "Kökets middag: Chiapannkakor med grön smoothie - Köket",
+  "channel": "Köket",
+  "secs": 294,
+  "lang": "sv"
+ },
+ {
+  "q": "kvarg frukost",
+  "tokens": [
+   "kvarg",
+   "frukost"
+  ],
+  "id": "fiobtWHXjc0",
+  "title": "Frukosttips - Overnight oats (du måste testa)",
+  "channel": "Matgeek",
+  "secs": 221,
+  "lang": "sv"
+ },
+ {
+  "q": "skyr bowl",
+  "tokens": [
+   "skyr",
+   "bowl"
+  ],
+  "id": "7rsCpwRoYJI",
+  "title": "10 Best YOGURT BOWLS for Breakfast You're Not Going to Be Able to Stop Eating",
+  "channel": "Karolina Miles | All Nutritious",
+  "secs": 504,
+  "lang": "en"
+ },
+ {
+  "q": "chiapudding",
+  "tokens": [
+   "chiapudding"
+  ],
+  "id": "AexwnYPDhys",
+  "title": "Gott och Enkelt - Chiapudding",
+  "channel": "Viktor Ingemarsson",
+  "secs": 106,
+  "lang": "sv"
+ },
+ {
+  "q": "frukostmacka fullkorn",
+  "tokens": [
+   "frukostmacka",
+   "fullkorn"
+  ],
+  "id": "SaBeYntnc2U",
+  "title": "Enklaste Surdegsfrallorna: Kalljästa Frukostfrallor (Recept)",
+  "channel": "Vete-skap",
+  "secs": 288,
+  "lang": "sv"
+ },
+ {
+  "q": "frittata",
+  "tokens": [
+   "frittata"
+  ],
+  "id": "CS32AC69814",
+  "title": "This Shrimp Frittata Recipe Will Make Your Family BEG For More!",
+  "channel": "Dinner Magic",
+  "secs": 485,
+  "lang": "en"
+ },
+ {
+  "q": "ugnsomelett",
+  "tokens": [
+   "ugnsomelett"
+  ],
+  "id": "-Z75_eQ9DzA",
+  "title": "Kökets middag: Ugnsomelett med cheddar, stuvad grönkål och krispiga fänkålskrutonger - Köket",
+  "channel": "Köket",
+  "secs": 263,
+  "lang": "sv"
+ },
+ {
+  "q": "fil och müsli",
+  "tokens": [
+   "fil",
+   "sli"
+  ],
+  "id": "-LZnahQIIf0",
+  "title": "Mitt kök: Müsli och snabb äggröra - TV4",
+  "channel": "Köket",
+  "secs": 326,
+  "lang": "sv"
+ },
+ {
+  "q": "granola hemgjord",
+  "tokens": [
+   "granola"
+  ],
+  "id": "ueBHIwboS9k",
+  "title": "Se & gör granola",
+  "channel": "Köket",
+  "secs": 127,
+  "lang": "sv"
+ },
+ {
+  "q": "yoghurt med bär",
+  "tokens": [
+   "yoghurt",
+   "bär"
+  ],
+  "id": "UPsTRIDYy0g",
+  "title": "♡ BAKA MED MIG | Yoghurt knappar med bär ♡",
+  "channel": "Jonna Eriksson",
+  "secs": 148,
+  "lang": "sv"
+ },
+ {
+  "q": "kycklingsallad",
+  "tokens": [
+   "kycklingsallad"
+  ],
+  "id": "PEuwhpWychk",
+  "title": "Kökets middag: Kycklingsallad med pasta och dijondressing - Köket",
+  "channel": "Köket",
+  "secs": 287,
+  "lang": "sv"
+ },
+ {
+  "q": "kycklingfilé i ugn",
+  "tokens": [
+   "kycklingfil",
+   "ugn"
+  ],
+  "id": "u4LW-C_zsP8",
+  "title": "Kyckling i ugn med saffran och citron - Köket",
+  "channel": "Köket",
+  "secs": 282,
+  "lang": "sv"
+ },
+ {
+  "q": "kycklinggryta",
+  "tokens": [
+   "kycklinggryta"
+  ],
+  "id": "v2N4-VVVe28",
+  "title": "Krämig kycklinggryta med sweet chili - Köket",
+  "channel": "Köket",
+  "secs": 296,
+  "lang": "sv"
+ },
+ {
+  "q": "kyckling curry",
+  "tokens": [
+   "kyckling",
+   "curry"
+  ],
+  "id": "tJhtb3h-vMM",
+  "title": "Så här gör du klassisk kyckling i currysås - steg för steg!",
+  "channel": "ICA-köket",
+  "secs": 122,
+  "lang": "sv"
+ },
+ {
+  "q": "kycklingwok",
+  "tokens": [
+   "kycklingwok"
+  ],
+  "id": "-pso_AxE2L8",
+  "title": "KYCKLINGWOK MED SWEET CHILI - ZEINAS RECEPT",
+  "channel": "Köket",
+  "secs": 223,
+  "lang": "sv"
+ },
+ {
+  "q": "kycklingsoppa",
+  "tokens": [
+   "kycklingsoppa"
+  ],
+  "id": "AbkEQFC6ik4",
+  "title": "Krämig kycklingsoppa - Köket",
+  "channel": "Köket",
+  "secs": 255,
+  "lang": "sv"
+ },
+ {
+  "q": "kycklingfärs",
+  "tokens": [
+   "kycklingfärs"
+  ],
+  "id": "_YzILPRufdI",
+  "title": "Krämiga jordnötsnudlar med kycklingfärs - Köket",
+  "channel": "Köket",
+  "secs": 306,
+  "lang": "sv"
+ },
+ {
+  "q": "kycklingfärsbiffar",
+  "tokens": [
+   "kycklingfärsbiffar"
+  ],
+  "id": "ZyYMqUQoTKU",
+  "title": "Kycklingbiffar med tomatrisoni - Köket",
+  "channel": "Köket",
+  "secs": 254,
+  "lang": "sv"
+ },
+ {
+  "q": "kycklingspett",
+  "tokens": [
+   "kycklingspett"
+  ],
+  "id": "S5Kvzy1lcgQ",
+  "title": "KYCKLINGSPETT MED KRÄMIG KÅLSALLAD",
+  "channel": "Köket",
+  "secs": 255,
+  "lang": "sv"
+ },
+ {
+  "q": "kyckling tacos",
+  "tokens": [
+   "kyckling",
+   "tacos"
+  ],
+  "id": "vrleTlJCckw",
+  "title": "Mitt kök: Kycklingtacos med tomatsalsa - TV4",
+  "channel": "Köket",
+  "secs": 291,
+  "lang": "sv"
+ },
+ {
+  "q": "kycklingpasta",
+  "tokens": [
+   "kycklingpasta"
+  ],
+  "id": "Ffk0kEWlqRY",
+  "title": "KRÄMIG KYCKLINGPASTA - CATARINA KÖNIGS RECEPT",
+  "channel": "Köket",
+  "secs": 241,
+  "lang": "sv"
+ },
+ {
+  "q": "kyckling med ris",
+  "tokens": [
+   "kyckling",
+   "ris"
+  ],
+  "id": "ckrRrWyLjkU",
+  "title": "Jag kollar receptet | KOKT KYCKLING MED RIS OCH CURRYSÅS",
+  "channel": "Jag kollar receptet",
+  "secs": 197,
+  "lang": "sv"
+ },
+ {
+  "q": "kyckling teriyaki",
+  "tokens": [
+   "kyckling",
+   "teriyaki"
+  ],
+  "id": "-fr_yX-tOzw",
+  "title": "Snabbt och enkelt recept på Kyckling Teriyaki",
+  "channel": "Riktiga recept",
+  "secs": 75,
+  "lang": "sv"
+ },
+ {
+  "q": "kyckling i ugn med grönsaker",
+  "tokens": [
+   "kyckling",
+   "ugn",
+   "grönsaker"
+  ],
+  "id": "begdNMP2l6M",
+  "title": "Kökets middag: Ugnsgrillad kyckling med rostade grönsaker och grillsås - Köket",
+  "channel": "Köket",
+  "secs": 290,
+  "lang": "sv"
+ },
+ {
+  "q": "kycklinglår i ugn",
+  "tokens": [
+   "kycklinglår",
+   "ugn"
+  ],
+  "id": "fkWIJwatrZg",
+  "title": "Hur gör man hel kyckling i ugn - och hur skär man upp den sen?",
+  "channel": "ICA-köket",
+  "secs": 162,
+  "lang": "sv"
+ },
+ {
+  "q": "grillad kyckling",
+  "tokens": [
+   "grillad",
+   "kyckling"
+  ],
+  "id": "guVjv-vjCsU",
+  "title": "GRILLA KYCKLING TILL PERFEKTION - JENNIES RECEPT",
+  "channel": "Köket",
+  "secs": 293,
+  "lang": "sv"
+ },
+ {
+  "q": "kycklingwrap",
+  "tokens": [
+   "kycklingwrap"
+  ],
+  "id": "YSD7pOEljpo",
+  "title": "Kyckling Curry Wrap | Filip Poon",
+  "channel": "Filip Poon",
+  "secs": 851,
+  "lang": "en"
+ },
+ {
+  "q": "kyckling tikka masala",
+  "tokens": [
+   "kyckling",
+   "tikka",
+   "masala"
+  ],
+  "id": "8tYj4a_K5x4",
+  "title": "Kökets middag: Tikka masala - Köket",
+  "channel": "Köket",
+  "secs": 275,
+  "lang": "sv"
+ },
+ {
+  "q": "kyckling och sötpotatis",
+  "tokens": [
+   "kyckling",
+   "sötpotatis"
+  ],
+  "id": "PRuPidp4aBI",
+  "title": "Kökets middag: Kyckling med stomp på sötpotatis och ajvarsås - Köket",
+  "channel": "Köket",
+  "secs": 293,
+  "lang": "sv"
+ },
+ {
+  "q": "kycklingpytt",
+  "tokens": [
+   "kycklingpytt"
+  ],
+  "id": "3H24aTkvxAk",
+  "title": "Kycklinggratäng med grönsaker - Köket",
+  "channel": "Köket",
+  "secs": 255,
+  "lang": "sv"
+ },
+ {
+  "q": "lax i ugn",
+  "tokens": [
+   "lax",
+   "ugn"
+  ],
+  "id": "_iZ7hlV-L-M",
+  "title": "Laxfilé i ugn",
+  "channel": "ICA-köket",
+  "secs": 80,
+  "lang": "sv"
+ },
+ {
+  "q": "ugnsbakad lax",
+  "tokens": [
+   "ugnsbakad",
+   "lax"
+  ],
+  "id": "dh20wOK3vvo",
+  "title": "UGNSBAKAD LAX MED KRÄMIG PURJOLÖK - TOMMY MYLLYMÄKIS RECEPT",
+  "channel": "Köket",
+  "secs": 287,
+  "lang": "sv"
+ },
+ {
+  "q": "stekt lax",
+  "tokens": [
+   "stekt",
+   "lax"
+  ],
+  "id": "3Uex3uBBbwE",
+  "title": "Kökets middag: Stekt lax med dill- och pepparrotsslungad potatis och romsås - Köket",
+  "channel": "Köket",
+  "secs": 241,
+  "lang": "sv"
+ },
+ {
+  "q": "laxpasta",
+  "tokens": [
+   "laxpasta"
+  ],
+  "id": "GhyvB28mMTI",
+  "title": "Mitt kök: Jennie Walldén och Tommy Myllymäki lagar en krämig laxpasta med purjo - TV4",
+  "channel": "Köket",
+  "secs": 250,
+  "lang": "sv"
+ },
+ {
+  "q": "laxwrap",
+  "tokens": [
+   "laxwrap"
+  ],
+  "id": "KOGIdWA1x4k",
+  "title": "Laxwrap Buffé 2011 nr 2",
+  "channel": "ICA",
+  "secs": 91,
+  "lang": "sv"
+ },
+ {
+  "q": "laxsoppa",
+  "tokens": [
+   "laxsoppa"
+  ],
+  "id": "IQ0zlXq67KY",
+  "title": "Recept: Krämig laxsoppa",
+  "channel": "Malax Limpan",
+  "secs": 131,
+  "lang": "sv"
+ },
+ {
+  "q": "torsk i ugn",
+  "tokens": [
+   "torsk",
+   "ugn"
+  ],
+  "id": "_8PKOw6XgB4",
+  "title": "Ugnsbakad torsk med citron- och dillsås - Köket",
+  "channel": "Köket",
+  "secs": 292,
+  "lang": "sv"
+ },
+ {
+  "q": "torskrygg",
+  "tokens": [
+   "torskrygg"
+  ],
+  "id": "ydFI6BNSs14",
+  "title": "Kökets middag: Smörstekt torskrygg med krossad potatis och citronkräm - Köket",
+  "channel": "Köket",
+  "secs": 283,
+  "lang": "sv"
+ },
+ {
+  "q": "fisktacos",
+  "tokens": [
+   "fisktacos"
+  ],
+  "id": "dfWavCvPHQA",
+  "title": "Mitt kök: Panerad fisktacos - TV4",
+  "channel": "Köket",
+  "secs": 282,
+  "lang": "sv"
+ },
+ {
+  "q": "fiskgratäng",
+  "tokens": [
+   "fiskgratäng"
+  ],
+  "id": "aMunqstkA3g",
+  "title": "Kökets middag: Catarinas lyxiga fiskgratäng - Köket",
+  "channel": "Köket",
+  "secs": 302,
+  "lang": "sv"
+ },
+ {
+  "q": "fisksoppa",
+  "tokens": [
+   "fisksoppa"
+  ],
+  "id": "2p3F9F8J8xY",
+  "title": "FISKSOPPA MED SAFFRAN OCH AIOLI - STEFANS RECEPT",
+  "channel": "Köket",
+  "secs": 300,
+  "lang": "sv"
+ },
+ {
+  "q": "räkpasta",
+  "tokens": [
+   "räkpasta"
+  ],
+  "id": "99ikGL2WJH8",
+  "title": "Kökets middag: Italiensk räkpasta med chili och vitlök - Köket",
+  "channel": "Köket",
+  "secs": 275,
+  "lang": "sv"
+ },
+ {
+  "q": "räksallad",
+  "tokens": [
+   "räksallad"
+  ],
+  "id": "L5mEHVSqi_0",
+  "title": "Kökets middag: Lyxkorv med räksallad och potatiskrisp - Köket",
+  "channel": "Köket",
+  "secs": 278,
+  "lang": "sv"
+ },
+ {
+  "q": "räkor vitlök",
+  "tokens": [
+   "räkor",
+   "vitlök"
+  ],
+  "id": "Wa7ix1iJdTk",
+  "title": "Markus bjuder in I Sofia Wistam I Spaghetti med räkor, chili och vitlök I Markus Aujalay",
+  "channel": "Markus Aujalay",
+  "secs": 1413,
+  "lang": "sv"
+ },
+ {
+  "q": "tonfisksallad",
+  "tokens": [
+   "tonfisksallad"
+  ],
+  "id": "0jcBBWcuRQ4",
+  "title": "Toskansk tonfisksallad med magisk dressing - Köket",
+  "channel": "Köket",
+  "secs": 301,
+  "lang": "sv"
+ },
+ {
+  "q": "tonfiskpasta",
+  "tokens": [
+   "tonfiskpasta"
+  ],
+  "id": "MUh1ezhqAs4",
+  "title": "Enkel tonfiskpasta - Köket",
+  "channel": "Köket",
+  "secs": 274,
+  "lang": "sv"
+ },
+ {
+  "q": "sej i ugn",
+  "tokens": [
+   "sej",
+   "ugn"
+  ],
+  "id": "W363SUInRIk",
+  "title": "Kökets middag: Ugnsbakad sej med potage på potatis- och purjolök - Köket",
+  "channel": "Köket",
+  "secs": 299,
+  "lang": "sv"
+ },
+ {
+  "q": "fiskpinnar hemgjorda",
+  "tokens": [
+   "fiskpinnar"
+  ],
+  "id": "Ow9FuqkImgQ",
+  "title": "Mitt kök: Hemmagjorda fiskpinnar - TV4",
+  "channel": "Köket",
+  "secs": 319,
+  "lang": "sv"
+ },
+ {
+  "q": "gravlax",
+  "tokens": [
+   "gravlax"
+  ],
+  "id": "FAO6xIW-1pE",
+  "title": "SWEDISH GRAVLAX | ( Cured Salmon ) - Easy Gravlax Recipe | How to make Gravlax 🐟",
+  "channel": "Food with Viktor",
+  "secs": 375,
+  "lang": "en"
+ },
+ {
+  "q": "sushi hemma",
+  "tokens": [
+   "sushi"
+  ],
+  "id": "6JornaSipRQ",
+  "title": "Kökets middag: Hemgjord sushi - Jennie Walldéns recept - Köket",
+  "channel": "Köket",
+  "secs": 299,
+  "lang": "sv"
+ },
+ {
+  "q": "köttfärsbiffar",
+  "tokens": [
+   "köttfärsbiffar"
+  ],
+  "id": "fvXJxzsj3dw",
+  "title": "Köttfärsbiffar i tomatsås - Köket",
+  "channel": "Köket",
+  "secs": 291,
+  "lang": "sv"
+ },
+ {
+  "q": "köttbullar",
+  "tokens": [
+   "köttbullar"
+  ],
+  "id": "VNOINAdHB8g",
+  "title": "KLASSISKA KÖTTBULLAR MED MOS OCH GRÄDDSÅS",
+  "channel": "Köket",
+  "secs": 281,
+  "lang": "sv"
+ },
+ {
+  "q": "köttfärssås",
+  "tokens": [
+   "köttfärssås"
+  ],
+  "id": "ZLs_boiIewc",
+  "title": "Så gör du den perfekta spaghetti & köttfärssåsen - ett enkelt och otroligt gott recept!",
+  "channel": "ICA-köket",
+  "secs": 76,
+  "lang": "sv"
+ },
+ {
+  "q": "lasagne",
+  "tokens": [
+   "lasagne"
+  ],
+  "id": "cS1Uoh3VDYI",
+  "title": "Så gör du den perfekta lasagnen - steg för steg!",
+  "channel": "ICA-köket",
+  "secs": 95,
+  "lang": "sv"
+ },
+ {
+  "q": "tacos köttfärs",
+  "tokens": [
+   "tacos",
+   "köttfärs"
+  ],
+  "id": "Tte_rQ5mMfQ",
+  "title": "Så gör du BIRRIA TACOS steg för steg!",
+  "channel": "ICA-köket",
+  "secs": 109,
+  "lang": "sv"
+ },
+ {
+  "q": "chili con carne",
+  "tokens": [
+   "chili",
+   "con",
+   "carne"
+  ],
+  "id": "HFYi79htCWM",
+  "title": "CHILI CON CARNE - ZEINAS RECEPT",
+  "channel": "Köket",
+  "secs": 238,
+  "lang": "sv"
+ },
+ {
+  "q": "biff med sallad",
+  "tokens": [
+   "biff",
+   "sallad"
+  ],
+  "id": "Lep1SH9hub8",
+  "title": "Kökets middag: BLT-sallad med biff - Köket",
+  "channel": "Köket",
+  "secs": 298,
+  "lang": "sv"
+ },
+ {
+  "q": "pytt i panna",
+  "tokens": [
+   "pytt",
+   "panna"
+  ],
+  "id": "3w9AysJu2i0",
+  "title": "Kökets middag: Stefans bästa pytt i panna - Köket",
+  "channel": "Köket",
+  "secs": 294,
+  "lang": "sv"
+ },
+ {
+  "q": "kalkonfärs",
+  "tokens": [
+   "kalkonfärs"
+  ],
+  "id": "EA6EVg_MTIE",
+  "title": "Helstekt kalkon till Thanksgiving - Köket",
+  "channel": "Köket",
+  "secs": 300,
+  "lang": "sv"
+ },
+ {
+  "q": "kalkonbiffar",
+  "tokens": [
+   "kalkonbiffar"
+  ],
+  "id": "YHb-peKPasY",
+  "title": "Kalkonfärsbiffar med sötpotatispommes - Köket",
+  "channel": "Köket",
+  "secs": 297,
+  "lang": "sv"
+ },
+ {
+  "q": "fläskfilé i ugn",
+  "tokens": [
+   "fläskfil",
+   "ugn"
+  ],
+  "id": "0ZPTO8wdAIA",
+  "title": "Baconlindad fläskfilé i ugn - jättegott middagstips inspirerat av tyskt recept",
+  "channel": "Smarrig tv",
+  "secs": 294,
+  "lang": "sv"
+ },
+ {
+  "q": "fläskkotlett",
+  "tokens": [
+   "fläskkotlett"
+  ],
+  "id": "2UEU7U8OJyY",
+  "title": "Köttguiden - Fläskkotlett, här är tipsen du behöver!",
+  "channel": "Scan",
+  "secs": 101,
+  "lang": "sv"
+ },
+ {
+  "q": "kycklingfilé grillad",
+  "tokens": [
+   "kycklingfil",
+   "grillad"
+  ],
+  "id": "guVjv-vjCsU",
+  "title": "GRILLA KYCKLING TILL PERFEKTION - JENNIES RECEPT",
+  "channel": "Köket",
+  "secs": 293,
+  "lang": "sv"
+ },
+ {
+  "q": "lammfärs",
+  "tokens": [
+   "lammfärs"
+  ],
+  "id": "fmwVxegoqnY",
+  "title": "Lammfärsbiffar med timjanpotatis och vitlökssmör - Köket",
+  "channel": "Köket",
+  "secs": 286,
+  "lang": "sv"
+ },
+ {
+  "q": "rostbiff",
+  "tokens": [
+   "rostbiff"
+  ],
+  "id": "BwJTcPwZfBY",
+  "title": "Köttguiden - Så tillagar du en klassisk rostbiff",
+  "channel": "Scan",
+  "secs": 146,
+  "lang": "sv"
+ },
+ {
+  "q": "pulled chicken",
+  "tokens": [
+   "pulled",
+   "chicken"
+  ],
+  "id": "AdkFKkUhSk4",
+  "title": "Mitt Kök: Pulled chicken med majssallad och chipotlemajonäs - TV4",
+  "channel": "Köket",
+  "secs": 295,
+  "lang": "sv"
+ },
+ {
+  "q": "pulled pork",
+  "tokens": [
+   "pulled",
+   "pork"
+  ],
+  "id": "hySbd5tX0wU",
+  "title": "Kökets middag: Pulled pork taco style - Köket",
+  "channel": "Köket",
+  "secs": 279,
+  "lang": "sv"
+ },
+ {
+  "q": "hamburgare hemgjord",
+  "tokens": [
+   "hamburgare"
+  ],
+  "id": "lMJpXyo0G20",
+  "title": "Smashed burger - enklaste metoden för riktigt god hamburgare",
+  "channel": "Alltid Hungrig",
+  "secs": 468,
+  "lang": "sv"
+ },
+ {
+  "q": "linssoppa",
+  "tokens": [
+   "linssoppa"
+  ],
+  "id": "UyP0bTdZRak",
+  "title": "Linssoppa med tomat - gott, enkelt och billigt!",
+  "channel": "ICA-köket",
+  "secs": 66,
+  "lang": "sv"
+ },
+ {
+  "q": "röd linssoppa",
+  "tokens": [
+   "röd",
+   "linssoppa"
+  ],
+  "id": "RYL0mOhq7to",
+  "title": "Röd linssoppa med citron och kryddsmör - Köket",
+  "channel": "Köket",
+  "secs": 219,
+  "lang": "sv"
+ },
+ {
+  "q": "linsgryta",
+  "tokens": [
+   "linsgryta"
+  ],
+  "id": "2DBmpF-VfTk",
+  "title": "Linsgryta med vitlöksnaan - Köket",
+  "channel": "Köket",
+  "secs": 298,
+  "lang": "sv"
+ },
+ {
+  "q": "linsbolognese",
+  "tokens": [
+   "linsbolognese"
+  ],
+  "id": "pB7b_V5rHTU",
+  "title": "Linsbolognese",
+  "channel": "ICA-köket",
+  "secs": 74,
+  "lang": "sv"
+ },
+ {
+  "q": "kikärtsgryta",
+  "tokens": [
+   "kikärtsgryta"
+  ],
+  "id": "HFXekEdHAB4",
+  "title": "KRÄMIG KIKÄRTSGRYTA MED RÖD CURRY - SIRIS RECEPT",
+  "channel": "Köket",
+  "secs": 260,
+  "lang": "sv"
+ },
+ {
+  "q": "kikärtsbowl",
+  "tokens": [
+   "kikärtsbowl"
+  ],
+  "id": "tTJVKxjyloQ",
+  "title": "Pokebowl med kikärtstofu",
+  "channel": "Receptfavoriter",
+  "secs": 165,
+  "lang": "sv"
+ },
+ {
+  "q": "hummus hemgjord",
+  "tokens": [
+   "hummus"
+  ],
+  "id": "LUHQs46WuF8",
+  "title": "Så gör du den perfekta hummusen med Zeina Mourtada",
+  "channel": "Zeina Mourtada",
+  "secs": 721,
+  "lang": "sv"
+ },
+ {
+  "q": "falafel",
+  "tokens": [
+   "falafel"
+  ],
+  "id": "u_0UAslWpJ0",
+  "title": "Kökets middag: Tareqs falafel med hummus och sallad - Köket",
+  "channel": "Köket",
+  "secs": 311,
+  "lang": "sv"
+ },
+ {
+  "q": "bönbiffar",
+  "tokens": [
+   "bönbiffar"
+  ],
+  "id": "nAjkQFB0624",
+  "title": "Mitt kök: Lisa och Tommys bönbiffar - TV4",
+  "channel": "Köket",
+  "secs": 284,
+  "lang": "sv"
+ },
+ {
+  "q": "bönsallad",
+  "tokens": [
+   "bönsallad"
+  ],
+  "id": "_n62uT1MWss",
+  "title": "Kökets middag: Bönsallad med surdegskrutonger - Köket",
+  "channel": "Köket",
+  "secs": 241,
+  "lang": "sv"
+ },
+ {
+  "q": "vegetarisk chili",
+  "tokens": [
+   "vegetarisk",
+   "chili"
+  ],
+  "id": "nx0GoTCrvAE",
+  "title": "Vegetarisk chili - Köket",
+  "channel": "Köket",
+  "secs": 286,
+  "lang": "sv"
+ },
+ {
+  "q": "tofu wok",
+  "tokens": [
+   "tofu",
+   "wok"
+  ],
+  "id": "43megE0UOPQ",
+  "title": "RECEPT na Zeleninový wok s tofu a ryžovými rezancami",
+  "channel": "Vitabox",
+  "secs": 84,
+  "lang": "sv"
+ },
+ {
+  "q": "tofu i ugn",
+  "tokens": [
+   "tofu",
+   "ugn"
+  ],
+  "id": "S7pnDWkM6kc",
+  "title": "Hemmagjorda fiskpinnar på Tofu! | Recept | Jävligt Gott",
+  "channel": "Gustav Johansson",
+  "secs": 911,
+  "lang": "sv"
+ },
+ {
+  "q": "halloumi sallad",
+  "tokens": [
+   "halloumi",
+   "sallad"
+  ],
+  "id": "wIPL47YVLE8",
+  "title": "KRISPIG SALLAD MED HALLOUMI OCH SUMAKDRESSING",
+  "channel": "Köket",
+  "secs": 304,
+  "lang": "sv"
+ },
+ {
+  "q": "halloumi i ugn",
+  "tokens": [
+   "halloumi",
+   "ugn"
+  ],
+  "id": "YF1q31w_J5A",
+  "title": "Spetskål i ugn | Kesotzatziki | Råstekt potatis | Halloumi",
+  "channel": "Judith Nodby",
+  "secs": 1010,
+  "lang": "sv"
+ },
+ {
+  "q": "halloumiburgare",
+  "tokens": [
+   "halloumiburgare"
+  ],
+  "id": "H09Tw3c_86E",
+  "title": "Mitt kök: Halloumiburgare med picklad lök - TV4",
+  "channel": "Köket",
+  "secs": 279,
+  "lang": "sv"
+ },
+ {
+  "q": "quinoasallad",
+  "tokens": [
+   "quinoasallad"
+  ],
+  "id": "tRQmwuuaviw",
+  "title": "Ärt-och quinoasallad med örtaioli - Köket",
+  "channel": "Köket",
+  "secs": 233,
+  "lang": "sv"
+ },
+ {
+  "q": "bulgursallad",
+  "tokens": [
+   "bulgursallad"
+  ],
+  "id": "ztB0qXD4LCo",
+  "title": "Kökets middag: Zeinas turkiska bulgursallad - Köket",
+  "channel": "Köket",
+  "secs": 301,
+  "lang": "sv"
+ },
+ {
+  "q": "grönsakssoppa",
+  "tokens": [
+   "grönsakssoppa"
+  ],
+  "id": "0ptU9IrdSXY",
+  "title": "Kökets middag: Grönsakssoppa på rotfrukter, tomat och spetskål - Köket",
+  "channel": "Köket",
+  "secs": 242,
+  "lang": "sv"
+ },
+ {
+  "q": "tomatsoppa",
+  "tokens": [
+   "tomatsoppa"
+  ],
+  "id": "n-dnbNN2_EA",
+  "title": "Tomatsoppa med ostgratinerat vitlöksbröd - Köket",
+  "channel": "Köket",
+  "secs": 306,
+  "lang": "sv"
+ },
+ {
+  "q": "blomkålssoppa",
+  "tokens": [
+   "blomkålssoppa"
+  ],
+  "id": "dta6NLKFRRQ",
+  "title": "Laga din Blomkålssoppa från Soppkonsert på Konserthuset",
+  "channel": "Carotte Group",
+  "secs": 276,
+  "lang": "sv"
+ },
+ {
+  "q": "morotssoppa",
+  "tokens": [
+   "morotssoppa"
+  ],
+  "id": "5sgz6y6NLFM",
+  "title": "Morotssoppa med krutonger - Köket",
+  "channel": "Köket",
+  "secs": 300,
+  "lang": "sv"
+ },
+ {
+  "q": "ugnsrostade grönsaker",
+  "tokens": [
+   "ugnsrostade",
+   "grönsaker"
+  ],
+  "id": "HmuF1-rPEu8",
+  "title": "Ugnsrostade grönsaker",
+  "channel": "City Gross",
+  "secs": 98,
+  "lang": "sv"
+ },
+ {
+  "q": "ugnsbakade rotfrukter",
+  "tokens": [
+   "ugnsbakade",
+   "rotfrukter"
+  ],
+  "id": "KJ690F_em2U",
+  "title": "Kökets middag: Ugnsbakade rotfrukter med gräddkokta kantareller och hyvlat äpple - Köket",
+  "channel": "Köket",
+  "secs": 262,
+  "lang": "sv"
+ },
+ {
+  "q": "zucchinipasta",
+  "tokens": [
+   "zucchinipasta"
+  ],
+  "id": "SFJ5QDPjKn0",
+  "title": "Kökets middag: Enkel och krämig zucchinipasta - Köket",
+  "channel": "Köket",
+  "secs": 255,
+  "lang": "sv"
+ },
+ {
+  "q": "aubergine i ugn",
+  "tokens": [
+   "aubergine",
+   "ugn"
+  ],
+  "id": "D0rmeTJudDw",
+  "title": "Jättegott och nyttigt middagstips med aubergine som tillagas i ugnen",
+  "channel": "Smarrig tv",
+  "secs": 301,
+  "lang": "sv"
+ },
+ {
+  "q": "grönsakswok",
+  "tokens": [
+   "grönsakswok"
+  ],
+  "id": "xMk20HX1O4I",
+  "title": "Wokade kinesiska grönsaker",
+  "channel": "Receptfavoriter",
+  "secs": 80,
+  "lang": "sv"
+ },
+ {
+  "q": "edamame",
+  "tokens": [
+   "edamame"
+  ],
+  "id": "FRYnlxm0NPo",
+  "title": "EDAMAMEBÖNOR som på restaurang",
+  "channel": "JunisCandy",
+  "secs": 392,
+  "lang": "sv"
+ },
+ {
+  "q": "rostade kikärtor",
+  "tokens": [
+   "rostade",
+   "kikärtor"
+  ],
+  "id": "iARHsMxkFIg",
+  "title": "Rostad sötpotatis med fetaost och kikärter - Köket",
+  "channel": "Köket",
+  "secs": 282,
+  "lang": "sv"
+ },
+ {
+  "q": "vegetarisk lasagne",
+  "tokens": [
+   "vegetarisk",
+   "lasagne"
+  ],
+  "id": "7-rItVrodNA",
+  "title": "Kökets middag: Dantes vegetariska lasagne - Köket",
+  "channel": "Köket",
+  "secs": 299,
+  "lang": "sv"
+ },
+ {
+  "q": "spenatomelett",
+  "tokens": [
+   "spenatomelett"
+  ],
+  "id": "tUYigvh8A68",
+  "title": "Spenatomelett och omelett toppad med Västerbottensost och rom - Köket",
+  "channel": "Köket",
+  "secs": 279,
+  "lang": "sv"
+ },
+ {
+  "q": "svampomelett",
+  "tokens": [
+   "svampomelett"
+  ],
+  "id": "E_m2Hkr1TJk",
+  "title": "Svampomelett | Leif Mannerström",
+  "channel": "Leif Mannerström",
+  "secs": 498,
+  "lang": "sv"
+ },
+ {
+  "q": "shakshuka",
+  "tokens": [
+   "shakshuka"
+  ],
+  "id": "y1lYKAwrybc",
+  "title": "Kökets middag: Shakshuka - Paul Svenssons recept - Köket",
+  "channel": "Köket",
+  "secs": 304,
+  "lang": "sv"
+ },
+ {
+  "q": "fullkornspasta",
+  "tokens": [
+   "fullkornspasta"
+  ],
+  "id": "DKvmjJo5iOk",
+  "title": "Kyckling i lingonsojasås med fullkornspasta",
+  "channel": "Jalbys",
+  "secs": 239,
+  "lang": "sv"
+ },
+ {
+  "q": "pasta med kyckling",
+  "tokens": [
+   "pasta",
+   "kyckling"
+  ],
+  "id": "8M3tnCeeh3Y",
+  "title": "Kökets middag: Pasta Alfredo med kyckling - Köket",
+  "channel": "Köket",
+  "secs": 278,
+  "lang": "sv"
+ },
+ {
+  "q": "pasta med tomatsås",
+  "tokens": [
+   "pasta",
+   "tomatsås"
+  ],
+  "id": "YZqg_HRlWYY",
+  "title": "Snabb pasta med tomat, vitlök och burrata - Köket",
+  "channel": "Köket",
+  "secs": 236,
+  "lang": "sv"
+ },
+ {
+  "q": "pasta pesto",
+  "tokens": [
+   "pasta",
+   "pesto"
+  ],
+  "id": "bXx_DfacD_w",
+  "title": "Pasta Pesto | Markus Aujalay",
+  "channel": "Markus Aujalay",
+  "secs": 493,
+  "lang": "en"
+ },
+ {
+  "q": "pasta med räkor",
+  "tokens": [
+   "pasta",
+   "räkor"
+  ],
+  "id": "LhQ8wu2L29o",
+  "title": "Pasta med räkor, paprika och vitt vin - Köket",
+  "channel": "Köket",
+  "secs": 244,
+  "lang": "sv"
+ },
+ {
+  "q": "risotto",
+  "tokens": [
+   "risotto"
+  ],
+  "id": "itjnzKq2EyY",
+  "title": "Masterclass 20: Markus Aujalay lagar favoriten risotto - Sveriges mästerkock (TV4)",
+  "channel": "Köket",
+  "secs": 286,
+  "lang": "sv"
+ },
+ {
+  "q": "stekt ris",
+  "tokens": [
+   "stekt",
+   "ris"
+  ],
+  "id": "gRhaXmHIJsU",
+  "title": "Stekt ris med Chorizo och grönsaker | Markus Aujalay",
+  "channel": "Markus Aujalay",
+  "secs": 536,
+  "lang": "sv"
+ },
+ {
+  "q": "ris kokt perfekt",
+  "tokens": [
+   "ris",
+   "kokt"
+  ],
+  "id": "JaH3j9lLbqA",
+  "title": "Se & gör: Koka perfekt ris",
+  "channel": "Köket",
+  "secs": 72,
+  "lang": "sv"
+ },
+ {
+  "q": "potatismos",
+  "tokens": [
+   "potatismos"
+  ],
+  "id": "nX67GBsrZNY",
+  "title": "Potatismos | I KÖKET MED TAREQ TAYLOR",
+  "channel": "Tareq & Sofia",
+  "secs": 957,
+  "lang": "sv"
+ },
+ {
+  "q": "klyftpotatis i ugn",
+  "tokens": [
+   "klyftpotatis",
+   "ugn"
+  ],
+  "id": "Ep01ToppI4c",
+  "title": "Klyftpotatis",
+  "channel": "Receptfavoriter",
+  "secs": 124,
+  "lang": "sv"
+ },
+ {
+  "q": "sötpotatis i ugn",
+  "tokens": [
+   "sötpotatis",
+   "ugn"
+  ],
+  "id": "D0TUO7nNFLs",
+  "title": "Mitt kök: Ryggbiff med ugnsbakad sötpotatis - TV4",
+  "channel": "Köket",
+  "secs": 307,
+  "lang": "sv"
+ },
+ {
+  "q": "sötpotatispommes",
+  "tokens": [
+   "sötpotatispommes"
+  ],
+  "id": "YHb-peKPasY",
+  "title": "Kalkonfärsbiffar med sötpotatispommes - Köket",
+  "channel": "Köket",
+  "secs": 297,
+  "lang": "sv"
+ },
+ {
+  "q": "bakad potatis",
+  "tokens": [
+   "bakad",
+   "potatis"
+  ],
+  "id": "CI1haLkYKmQ",
+  "title": "Bakad potatis",
+  "channel": "Receptfavoriter",
+  "secs": 93,
+  "lang": "sv"
+ },
+ {
+  "q": "potatissallad",
+  "tokens": [
+   "potatissallad"
+  ],
+  "id": "0qgJyTjxnhY",
+  "title": "Fransk potatissallad (med senap- och vinägersås)",
+  "channel": "ICA-köket",
+  "secs": 93,
+  "lang": "sv"
+ },
+ {
+  "q": "bulgur",
+  "tokens": [
+   "bulgur"
+  ],
+  "id": "k1G9dLtYYQY",
+  "title": "Recept za Turski Bulgur 👌😋",
+  "channel": "Moi Domasni Recepti",
+  "secs": 185,
+  "lang": "sv"
+ },
+ {
+  "q": "quinoa koka",
+  "tokens": [
+   "quinoa",
+   "koka"
+  ],
+  "id": "y1KScdEnEcw",
+  "title": "Kökets middag: Quinoasallad med feta, picklad lök och mynta - Köket",
+  "channel": "Köket",
+  "secs": 284,
+  "lang": "sv"
+ },
+ {
+  "q": "couscous sallad",
+  "tokens": [
+   "couscous",
+   "sallad"
+  ],
+  "id": "snn4-qKfszY",
+  "title": "VECKANS MATLÅDA | COUSCOUS SALLAD | LOW CALORIE | KLART PÅ 15 MIN",
+  "channel": "Linaqol",
+  "secs": 641,
+  "lang": "sv"
+ },
+ {
+  "q": "nudelsoppa",
+  "tokens": [
+   "nudelsoppa"
+  ],
+  "id": "LvOweZHEiVk",
+  "title": "Mitt kök: Japansk nudelsoppa - TV4",
+  "channel": "Köket",
+  "secs": 196,
+  "lang": "sv"
+ },
+ {
+  "q": "wok nudlar",
+  "tokens": [
+   "wok",
+   "nudlar"
+  ],
+  "id": "n2Ty0GliTIY",
+  "title": "Mitt kök: Wokade nudlar med krispiga grönsaker - TV4",
+  "channel": "Köket",
+  "secs": 242,
+  "lang": "sv"
+ },
+ {
+  "q": "sallad med kyckling",
+  "tokens": [
+   "sallad",
+   "kyckling"
+  ],
+  "id": "szkRtTjVAlw",
+  "title": "Grekisk sallad med grillad kyckling - Köket",
+  "channel": "Köket",
+  "secs": 299,
+  "lang": "sv"
+ },
+ {
+  "q": "caesarsallad",
+  "tokens": [
+   "caesarsallad"
+  ],
+  "id": "StP8zzN6sLs",
+  "title": "Caesarsallad & saftig kycklingfilé med Zeina Mourtada",
+  "channel": "Zeina Mourtada",
+  "secs": 452,
+  "lang": "sv"
+ },
+ {
+  "q": "grekisk sallad",
+  "tokens": [
+   "grekisk",
+   "sallad"
+  ],
+  "id": "szkRtTjVAlw",
+  "title": "Grekisk sallad med grillad kyckling - Köket",
+  "channel": "Köket",
+  "secs": 299,
+  "lang": "sv"
+ },
+ {
+  "q": "kålsallad",
+  "tokens": [
+   "kålsallad"
+  ],
+  "id": "u-PLO8pdzjo",
+  "title": "Mitt kök: Lisas bästa kålsallad - TV4",
+  "channel": "Köket",
+  "secs": 120,
+  "lang": "sv"
+ },
+ {
+  "q": "coleslaw",
+  "tokens": [
+   "coleslaw"
+  ],
+  "id": "u-EvzskVQ3M",
+  "title": "Coleslaw",
+  "channel": "Receptfavoriter",
+  "secs": 86,
+  "lang": "sv"
+ },
+ {
+  "q": "poke bowl",
+  "tokens": [
+   "poke",
+   "bowl"
+  ],
+  "id": "PbaSPOf439M",
+  "title": "Två Snabba Poke Bowls!",
+  "channel": "Filip Poon",
+  "secs": 898,
+  "lang": "sv"
+ },
+ {
+  "q": "buddha bowl",
+  "tokens": [
+   "buddha",
+   "bowl"
+  ],
+  "id": "cSVwY3NPOSw",
+  "title": "Buddha Bowls For An Entire Week",
+  "channel": "Tasty Recipes",
+  "secs": 768,
+  "lang": "en"
+ },
+ {
+  "q": "sallad i burk",
+  "tokens": [
+   "sallad",
+   "burk"
+  ],
+  "id": "hiCcoFOwIn8",
+  "title": "Sallad på julbordet - Köket",
+  "channel": "Köket",
+  "secs": 302,
+  "lang": "sv"
+ },
+ {
+  "q": "matiga sallader",
+  "tokens": [
+   "matiga",
+   "sallader"
+  ],
+  "id": "3udPyQtv1M0",
+  "title": "Matig sallad med ägg, potatis och surdegskrutonger - Köket",
+  "channel": "Köket",
+  "secs": 295,
+  "lang": "sv"
+ },
+ {
+  "q": "wraps nyttiga",
+  "tokens": [
+   "wraps"
+  ],
+  "id": "ofb9pSpuz64",
+  "title": "High-protein, gut-friendly wraps you can make with 3 ingredients (no additives)",
+  "channel": "The Doctor's Kitchen",
+  "secs": 619,
+  "lang": "en"
+ },
+ {
+  "q": "tunnbrödsrulle",
+  "tokens": [
+   "tunnbrödsrulle"
+  ],
+  "id": "CpN9wcoRUpQ",
+  "title": "Tunnbrödsrulle med bbq-karré - Köket",
+  "channel": "Köket",
+  "secs": 245,
+  "lang": "sv"
+ },
+ {
+  "q": "smörgåstårta nyttig",
+  "tokens": [
+   "smörgåstårta"
+  ],
+  "id": "2WUvuPrwG34",
+  "title": "Ljuvlig smörgåstårta med räkor och lax",
+  "channel": "ICA-köket",
+  "secs": 254,
+  "lang": "sv"
+ },
+ {
+  "q": "mackor nyttiga",
+  "tokens": [
+   "mackor"
+  ],
+  "id": "scN__aj-ca4",
+  "title": "Varma mackor",
+  "channel": "Receptfavoriter",
+  "secs": 118,
+  "lang": "sv"
+ },
+ {
+  "q": "soppa nyttig",
+  "tokens": [
+   "soppa"
+  ],
+  "id": "p3y1UQEdC3g",
+  "title": "Röd borsjtj – nyttig soppa för hjärta, mage och hälsa",
+  "channel": "Plus En Dag Till",
+  "secs": 278,
+  "lang": "sv"
+ },
+ {
+  "q": "gulaschsoppa",
+  "tokens": [
+   "gulaschsoppa"
+  ],
+  "id": "4u1KG7-FAkg",
+  "title": "Jag kollar receptet | GULASCHSOPPA från Sällskapsresan 2",
+  "channel": "Jag kollar receptet",
+  "secs": 164,
+  "lang": "sv"
+ },
+ {
+  "q": "thaisoppa kyckling",
+  "tokens": [
+   "thaisoppa",
+   "kyckling"
+  ],
+  "id": "AbkEQFC6ik4",
+  "title": "Krämig kycklingsoppa - Köket",
+  "channel": "Köket",
+  "secs": 255,
+  "lang": "sv"
+ },
+ {
+  "q": "currygryta",
+  "tokens": [
+   "currygryta"
+  ],
+  "id": "I8Gr38MjrR4",
+  "title": "Krämig currygryta med blomkål och kikärtor - Köket",
+  "channel": "Köket",
+  "secs": 305,
+  "lang": "sv"
+ },
+ {
+  "q": "grönsaksgryta",
+  "tokens": [
+   "grönsaksgryta"
+  ],
+  "id": "81TpHbweovk",
+  "title": "Kökets middag: Indisk grönsaksgryta - Köket",
+  "channel": "Köket",
+  "secs": 282,
+  "lang": "sv"
+ },
+ {
+  "q": "kycklinggryta kokosmjölk",
+  "tokens": [
+   "kycklinggryta",
+   "kokosmjölk"
+  ],
+  "id": "ZXn-OIae8BA",
+  "title": "KRÄMIG KYCKLINGGRYTA MED KOKOSMJÖLK - FILIP POON",
+  "channel": "Köket",
+  "secs": 232,
+  "lang": "sv"
+ },
+ {
+  "q": "tomatgryta bönor",
+  "tokens": [
+   "tomatgryta",
+   "bönor"
+  ],
+  "id": "84bTrndRJdY",
+  "title": "Mitt kök: Salsiccia med tomat och bönor - TV4",
+  "channel": "Köket",
+  "secs": 279,
+  "lang": "sv"
+ },
+ {
+  "q": "chili sin carne",
+  "tokens": [
+   "chili",
+   "sin",
+   "carne"
+  ],
+  "id": "-64kj_6NvFE",
+  "title": "Kökets middag: Chili sin carne - Siri Barjes recept - Köket",
+  "channel": "Köket",
+  "secs": 286,
+  "lang": "sv"
+ },
+ {
+  "q": "nyttigt mellanmål",
+  "tokens": [
+   "nyttigt",
+   "mellanmål"
+  ],
+  "id": "ap8Sv0v5mCk",
+  "title": "Nyttigt och gott mellanmål för hela familjen - blomkål i ugn!",
+  "channel": "Smarrig tv",
+  "secs": 204,
+  "lang": "sv"
+ },
+ {
+  "q": "proteinbollar",
+  "tokens": [
+   "proteinbollar"
+  ],
+  "id": "ZprD-QXQZdk",
+  "title": "PROTEINRIKA CHOKLADBOLLAR!",
+  "channel": "Proteinbolaget",
+  "secs": 75,
+  "lang": "sv"
+ },
+ {
+  "q": "dadelbollar",
+  "tokens": [
+   "dadelbollar"
+  ],
+  "id": "Y5waq1KKSxw",
+  "title": "Kökets helgtips: Dadelbollar med två smaker - Köket",
+  "channel": "Köket",
+  "secs": 284,
+  "lang": "sv"
+ },
+ {
+  "q": "energibars hemgjorda",
+  "tokens": [
+   "energibars"
+  ],
+  "id": "EaYmMeNf1ig",
+  "title": "Fotbollsskolan: Tina & Paula gör egna energibars till träningen",
+  "channel": "ICA",
+  "secs": 178,
+  "lang": "sv"
+ },
+ {
+  "q": "kvarg med bär",
+  "tokens": [
+   "kvarg",
+   "bär"
+  ],
+  "id": "pcuNKJrZDS8",
+  "title": "Recept: Scones med kvarg",
+  "channel": "Alexander Williamson",
+  "secs": 267,
+  "lang": "sv"
+ },
+ {
+  "q": "nyttig efterrätt",
+  "tokens": [
+   "efterrätt"
+  ],
+  "id": "m0n58ngEsWA",
+  "title": "Pannacotta med salt kolasås - snabb & enkel efterrätt!",
+  "channel": "Camilla Hamid",
+  "secs": 368,
+  "lang": "sv"
+ },
+ {
+  "q": "proteinglass",
+  "tokens": [
+   "proteinglass"
+  ],
+  "id": "pAY6Uqp-Y_c",
+  "title": "Proteinglass - Recept",
+  "channel": "Tim",
+  "secs": 305,
+  "lang": "sv"
+ },
+ {
+  "q": "bananpannkakor",
+  "tokens": [
+   "bananpannkakor"
+  ],
+  "id": "B3Slaj7-RzI",
+  "title": "Recept på fluffiga bananpannkakor",
+  "channel": "Riktiga recept",
+  "secs": 80,
+  "lang": "sv"
+ },
+ {
+  "q": "nyttiga muffins",
+  "tokens": [
+   "muffins"
+  ],
+  "id": "NkS3uso0l74",
+  "title": "Healthy Banana Yogurt Muffins /super moist and soft / Easy and Tasty",
+  "channel": "Bake Only",
+  "secs": 173,
+  "lang": "en"
+ },
+ {
+  "q": "chokladbollar nyttiga",
+  "tokens": [
+   "chokladbollar"
+  ],
+  "id": "gsB0vyNm8ew",
+  "title": "Så bakar du chokladbollar",
+  "channel": "ICA-köket",
+  "secs": 84,
+  "lang": "sv"
+ },
+ {
+  "q": "steka kyckling saftig",
+  "tokens": [
+   "steka",
+   "kyckling",
+   "saftig"
+  ],
+  "id": "Q7GhdlkkIII",
+  "title": "Här har du receptet på den frasigaste och saftigaste kycklingfilén - NÅGONSIN!| Smarrig.tv",
+  "channel": "Smarrig tv",
+  "secs": 183,
+  "lang": "sv"
+ },
+ {
+  "q": "koka ägg",
+  "tokens": [
+   "koka",
+   "ägg"
+  ],
+  "id": "o4j9Vsvktm0",
+  "title": "Lättaste sättet att koka ägg. Både löskokta och hårdkokta.",
+  "channel": "Samzelius i köket",
+  "secs": 237,
+  "lang": "sv"
+ },
+ {
+  "q": "hacka lök",
+  "tokens": [
+   "hacka",
+   "lök"
+  ],
+  "id": "wzUHTdQm_dk",
+  "title": "FOOD HACKS med Filip Poon: Hacka lök som en kock",
+  "channel": "Köket",
+  "secs": 106,
+  "lang": "sv"
+ },
+ {
+  "q": "tillaga broccoli",
+  "tokens": [
+   "tillaga",
+   "broccoli"
+  ],
+  "id": "P8hJulWjJX4",
+  "title": "Kökets middag: Broccoli- och cheddarostsoppa - Köket",
+  "channel": "Köket",
+  "secs": 295,
+  "lang": "sv"
+ },
+ {
+  "q": "ugnsbaka grönsaker",
+  "tokens": [
+   "ugnsbaka",
+   "grönsaker"
+  ],
+  "id": "LaGFTygJ4dk",
+  "title": "Kökets middag: Ugnsbakade grönsaker med tomatsås - Köket",
+  "channel": "Köket",
+  "secs": 294,
+  "lang": "sv"
+ },
+ {
+  "q": "meal prep vecka",
+  "tokens": [
+   "meal",
+   "prep",
+   "vecka"
+  ],
+  "id": "Gvm_N-zJnXw",
+  "title": "VECKANS MEAL PREP - enkel & god mat inför veckan",
+  "channel": "Lejla Franzerovic",
+  "secs": 632,
+  "lang": "sv"
+ },
+ {
+  "q": "matlådor vecka",
+  "tokens": [
+   "matlådor",
+   "vecka"
+  ],
+  "id": "rguziY0cDYo",
+  "title": "Enkla veganska matlådor för hela veckan - Nyhetsmorgon (TV4)",
+  "channel": "Nyhetsmorgon",
+  "secs": 615,
+  "lang": "sv"
+ },
+ {
+  "q": "laga mat billigt",
+  "tokens": [
+   "laga",
+   "mat",
+   "billigt"
+  ],
+  "id": "xSar_bWmtV8",
+  "title": "Laga billig mat med Läget",
+  "channel": "JMK LÄGET",
+  "secs": 138,
+  "lang": "sv"
+ },
+ {
+  "q": "snabb middag 15 minuter",
+  "tokens": [
+   "snabb",
+   "middag",
+   "minuter"
+  ],
+  "id": "zI4ExzN9RAM",
+  "title": "Middag på under 15 minuter!",
+  "channel": "Filip Poon",
+  "secs": 587,
+  "lang": "sv"
+ },
+ {
+  "q": "nyttig middag",
+  "tokens": [
+   "middag"
+  ],
+  "id": "LIutWTRblT0",
+  "title": "Nyttigt behöver inte vara tråkigt! Här är ett nyttigt och gott middagstips!",
+  "channel": "Smarrig tv",
+  "secs": 225,
+  "lang": "sv"
+ },
+ {
+  "q": "högprotein middag",
+  "tokens": [
+   "högprotein",
+   "middag"
+  ],
+  "id": "LIutWTRblT0",
+  "title": "Nyttigt behöver inte vara tråkigt! Här är ett nyttigt och gott middagstips!",
+  "channel": "Smarrig tv",
+  "secs": 225,
+  "lang": "sv"
+ },
+ {
+  "q": "lchf middag",
+  "tokens": [
+   "lchf",
+   "middag"
+  ],
+  "id": "27ZoFyc7qZs",
+  "title": "Lchf video recept: Thai torsk i kokosmjölk, steg för steg hur man tillagar",
+  "channel": "Jenny v",
+  "secs": 488,
+  "lang": "sv"
+ },
+ {
+  "q": "vegansk middag",
+  "tokens": [
+   "vegansk",
+   "middag"
+  ],
+  "id": "A-05zCjViH0",
+  "title": "Vegansk Middag- OTROLIGT god (Video Recept)",
+  "channel": "Svenska Vego Köket",
+  "secs": 242,
+  "lang": "sv"
+ }
+]
